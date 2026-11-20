@@ -22,8 +22,8 @@
 
 | Attribute | Details |
 |:---|:---|
-| **Student Name** | **K. Tanmaisri** |
-| **University Roll Number** | **`25RBAIM0049`** |
+| **Student Name** | **K. Tanmaisri , Uzma begum , swetha** |
+| **University Roll Number** | **`25RBAIM0049`,`25RBAIM0019`,`25RBAIM0050`** |
 | **Branch / Degree** | **B.Tech (Hons.) Computer Science & Engineering (AI & ML)** |
 | **Year / Semester** | **2nd Year, 1st Semester (2-1)** |
 | **Academic Institution** | **MNR University, Telangana, India** |
@@ -43,43 +43,6 @@ This project develops an **AI-Based Student Skill Gap Analysis and Career Recomm
 - **Predict and recommend optimal career specialization tracks** across six key technology domains using supervised machine learning.
 - **Compute quantitative, granular Skill Gap Indices (SGI)** against 75th-percentile industry benchmark standards.
 - **Formulate personalized, prioritized curriculum and certification roadmaps** to bridge identified skill deficiencies before campus placement drives.
-
----
-
-## 📁 Repository Structure
-
-```
-AI-Based-Student-Skill-Gap-Analysis-and-Career-Recommendation-System/
-│
-├── student_skills_career_dataset.csv            # Comprehensive student dataset (2,400 records, 17 cols)
-├── student_skill_gap_career_recommendation.py   # Complete, reproducible Python ML pipeline script
-├── Student_Skill_Gap_Career_Recommendation.ipynb# Interactive Jupyter Notebook with rich visualizations
-├── requirements.txt                             # Python software dependencies
-├── README.md                                    # Comprehensive project documentation
-├── DEMO_VIDEO_GUIDE.md                          # Video recording script, recording guide & sharing steps
-│
-├── AI_Based_Student_Skill_Gap_Analysis_Report_K_Tanmaisri.pdf # Official Project Academic Report (33 Pages)
-├── AI_Based_Student_Skill_Gap_Analysis_Report.pdf             # Secondary link to Project Report
-├── AI_Based_Student_Skill_Gap_Analysis_Presentation.pptx     # 12-Slide PowerPoint Presentation Deck
-├── AI_Based_Student_Skill_Gap_Analysis_Presentation.pdf      # PDF Slide Deck
-│
-├── data/
-│   └── student_skills_career_dataset.csv        # Secondary copy of dataset
-│
-├── slides/                                      # Rendered presentation slides (PNG)
-│   ├── slide_1.png ... slide_12.png
-│
-└── visualizations/                              # 9 Publication-grade diagnostic charts
-    ├── figure_1_career_class_distribution.png
-    ├── figure_2_academic_skills_radar_profiles.png
-    ├── figure_3_correlation_matrix_heatmap.png
-    ├── figure_4_model_accuracy_comparison.png
-    ├── figure_5_multiclass_roc_curves.png
-    ├── figure_6_confusion_matrix_champion_model.png
-    ├── figure_7_knn_k_sensitivity.png
-    ├── figure_8_random_forest_feature_importance.png
-    └── figure_9_student_skill_gap_analysis_benchmark.png
-```
 
 ---
 
@@ -242,15 +205,6 @@ jupyter notebook Student_Skill_Gap_Career_Recommendation.ipynb
 
 ---
 
-## 🎥 Project Presentation, Report & Demo Video
-
-- **Official Project Report (PDF):** [`AI_Based_Student_Skill_Gap_Analysis_Report_K_Tanmaisri.pdf`](./AI_Based_Student_Skill_Gap_Analysis_Report_K_Tanmaisri.pdf)
-- **PowerPoint Slide Deck (PPTX):** [`AI_Based_Student_Skill_Gap_Analysis_Presentation.pptx`](./AI_Based_Student_Skill_Gap_Analysis_Presentation.pptx)
-- **Presentation Slides (PDF):** [`AI_Based_Student_Skill_Gap_Analysis_Presentation.pdf`](./AI_Based_Student_Skill_Gap_Analysis_Presentation.pdf)
-- **Video Recording Script & Walkthrough:** [`DEMO_VIDEO_GUIDE.md`](./DEMO_VIDEO_GUIDE.md)
-- **Demo Video URL:** [Click to Watch Demo Video on YouTube](https://youtu.be/your-video-id) *(Please update with your unlisted YouTube or Google Drive link)*
-
----
 
 ## ⚖️ Ethical Governance & Academic Declaration
 
@@ -258,4 +212,3 @@ jupyter notebook Student_Skill_Gap_Career_Recommendation.ipynb
 2. **Privacy Protection:** Profiling relies on anonymized, consensual academic metrics without tracking private personal communications.
 3. **Academic Integrity:** This mini-project entitled **"AI-Based Student Skill Gap Analysis and Career Recommendation System"** represents original work submitted for the Machine Learning Laboratory (Course Code: `25CSM201`) at MNR University.
 
-- **K. Tanmaisri** (Roll No: `25RBAIM0049`)
